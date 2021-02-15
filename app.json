@@ -1,9 +1,9 @@
 {
-  "name": "react-native-rapture",
-  "displayName": "react-native-rapture",
+  "name": "react-native-lecture",
+  "displayName": "react-native-lecture",
   "expo": {
-    "name": "react-native-rapture",
-    "slug": "react-native-rapture",
+    "name": "react-native-lecture",
+    "slug": "react-native-lecture",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

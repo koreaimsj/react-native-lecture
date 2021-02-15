@@ -132,7 +132,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.reactnativerapture"
+        applicationId "com.reactnativelecture"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
